@@ -1,0 +1,78 @@
+<div class="lg:w-full flex mt-24 ml-32">
+    <div class="flex flex-col">
+        <h1 class="text-5xl font-bold text-center mb-16">#Sosloquehacés</h1>
+        <img src="/assets/pictures/bear-misc.svg" width="506" height="421">
+    </div>
+    <div class="flex flex-col w-1/2 ml-32">
+        <form action="">
+            <h4 class="font-bold text-xl mb-5">¿Quieres saber más sobre nuestros cursos?</h4>
+            <p class="mb-5">Completá este formulario</p>
+            <p class="text-xs text-greyLetters mb-2">Nombre*</p>
+            <input
+            type="text"
+            class="borderr"
+            placeholder="Escribe tu nombre">
+            <p class="text-xs text-greyLetters mb-2 mt-4">Teléfono*</p>
+            <input
+            type="number"
+            class="borderr"
+            placeholder="Escribe tu número" >
+            <p class="text-xs text-greyLetters mb-2 mt-4">E-mail*</p>
+            <input
+            type="email"
+            class="borderr"
+            placeholder="Escribe tu E-mail" >
+            <p class="text-xs text-greyLetters mb-2 mt-4">Curso de interés</p>
+            <select class="borderr"> 
+              <option>Selecciona un curso</option>
+              <option></option>
+              <option></option>  
+            </select>
+            <p class="text-xs text-greyLetters mb-2 mt-4">Mensaje</p>
+            <input
+            type="email"
+            class="borderr"
+            placeholder="Escribe un mensaje adicional" >
+            <p class="text-xs mt-8">*datos obligatorios</p>
+            <button class="py-4 w-40 font-bold my-10">Enviar</button>
+            
+        </form>
+    </div>
+</div>
+<div class="lg:w-full flex bg-pinkNav h-14 justify-center items-center">
+    |<a href="#contacto">Cursos</a>|
+    <a href="#quienessomos">Quiénes somos</a>|
+    <a href="#noticiasfrescas">Noticias frescas</a>|
+    <a href="##wearedoers">#Wearedoers </a>|
+    <a href="#contacto">Contacto</a>|
+</div>
+
+<style>
+    .borderr{
+        border-bottom: 2px solid #707070;
+        border-top: none;
+        width: 350px;
+        
+    }
+    .borderr:hover{
+        border-bottom: 2px solid pink;
+    }
+    .borderr:active{
+        border: none;
+    }
+    .borderr:focus{
+        border:none;
+    }
+    ::placeholder{
+        color: #707070;
+    }
+    button{
+        border: 2px solid black;
+    }
+    a{
+     padding: 0 40px;
+    }
+    
+
+    
+</style>

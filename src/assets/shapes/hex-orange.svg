@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="189.285"
+   height="187.866"
+   viewBox="0 0 189.285 187.866"
+   version="1.1"
+   id="svg462"
+   sodipodi:docname="yellow-hex.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs466" />
+  <sodipodi:namedview
+     id="namedview464"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <path
+     id="Trazado_11937"
+     data-name="Trazado 11937"
+     d="m 94.64322,27.572546 -57.469681,33.179593 -1.93e-4,66.360481 57.469487,33.18089 57.469677,-33.1796 2e-4,-66.360477 z"
+     fill="none"
+     stroke="#e1df3c"
+     stroke-width="9"
+     style="stroke:#e6511b;stroke-opacity:1" />
+</svg>
